@@ -1,6 +1,7 @@
 # learn-shell
 
 shell scripting Topics
+#---------------------------
 
 1. Printing
 2. comments
@@ -12,4 +13,4 @@ shell scripting Topics
 8. exit status 
 9. Quotes
 10. Redirectors
-11. 
+#----------------------------
