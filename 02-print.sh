@@ -1,1 +1,1 @@
-#helloworld
+echo helloworld
