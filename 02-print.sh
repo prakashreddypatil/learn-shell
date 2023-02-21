@@ -1,4 +1,4 @@
 echo helloworld
 
-echo "\[31 message to print "
-echo "\[34 message printed"
+echo -e "\[31 message to print "
+echo  -e "\[34 message printed"
