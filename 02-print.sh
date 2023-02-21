@@ -1,4 +1,4 @@
 echo helloworld
 
-echo -e "\e[31m message to print "
-echo  -e "\[34 message printed"
+echo -e "\e[31m message to print \e[0m"
+echo  -e "\e[34m message printed"
