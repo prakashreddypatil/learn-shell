@@ -18,3 +18,5 @@ echo  'the value of array is ='${Array[1]}
 echo  the value of array is = ${Array[2]}
 
 
+#accessing the variables from shell
+echo X = $x

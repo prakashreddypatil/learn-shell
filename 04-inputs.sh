@@ -10,5 +10,3 @@ echo all arguments = $@  # All arguments
 
 echo number of arguments = $# #number of arguments
 
-#accessing the variables from shell
-echo X =$x
