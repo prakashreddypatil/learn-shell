@@ -1,2 +1,2 @@
 #assigning export values
-echo v=$v
+echo v = $v
