@@ -13,8 +13,8 @@ echo "The addition of 2+3 =${ADD}"
 
 ##array
 Array=(10 20 30)
-echo  "the value of array is ="${Array(0)}
-echo  'the value of array is ='${Array(1)}
-echo  the value of array is = ${Array(3)}
+echo  "the value of array is ="${Array[0])}
+echo  'the value of array is ='${Array[1]}
+echo  the value of array is = ${Array[2]}
 
 
