@@ -1,3 +1,3 @@
 #assigning export values
 
-echo x = $x
+echo "the value of x is  =$x"
