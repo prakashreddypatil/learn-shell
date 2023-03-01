@@ -1,2 +1,3 @@
 #assigning export values
-echo "v =" ${v}
+
+echo x = $x
