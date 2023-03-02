@@ -8,8 +8,11 @@ xyz() {
   echo All argumnets $*
   echo "all arguments $@"
   echo no of argumnets $#
+  echo "the value of a =$a"
+  b=40
 
 }
 
 ##calling a function
+a=40
 xyz 123 abc
