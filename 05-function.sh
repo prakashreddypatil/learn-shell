@@ -1,4 +1,4 @@
-##function
+## Declare function
 xyz() {
   echo hello this a function
 }
