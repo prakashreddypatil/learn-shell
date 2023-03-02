@@ -16,3 +16,4 @@ xyz() {
 ##calling a function
 a=40
 xyz 123 abc
+echo the value of b =$b
