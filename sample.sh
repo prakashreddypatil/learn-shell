@@ -15,5 +15,3 @@ Buggy,Smokey
 Pixel
 Toto
 Pebble
-##Speck
-##root root ROOT root
