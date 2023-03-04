@@ -2,7 +2,6 @@
 #this first bash script to execute in the server
 ls
 ls -all
-root Root  root  root
 Bonbon,Grayson
 Lovebug,Cloud
 Poky,Stormzy
@@ -17,4 +16,4 @@ Pixel
 Toto
 Pebble
 Speck
-
+root root ROOT rooot
