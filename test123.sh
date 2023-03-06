@@ -8,5 +8,6 @@
       "Type": "A",
       "TTL": 30,
       "ResourceRecords": [{ "Value": "IPADDRESS"}]
+      "CREATE/CREATE"
     }}]
 }
