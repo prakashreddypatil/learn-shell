@@ -1,6 +1,6 @@
 
 {
-  "Comment": "CREATE/DELETE/UPSERT a record ",
+  "Comment": "CREATE/DELETE/UPSERT a record  CREATE/CREATE ",
   "Changes": [{
     "Action": "UPSERT",
     "ResourceRecordSet": {
