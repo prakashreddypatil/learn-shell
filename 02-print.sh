@@ -8,7 +8,8 @@ echo  -e "\e[36m colour code change  and it stopped here \e[0m"
 
 ##to print multiple lines
 echo -e   "line1\nline2\nline3"
-echo -e "\e[34 mline1\nline2\nline3 \e[0m"
+
+echo -e "\e[34mline1\nline2\nline3 \e[0m"
 
 ##to print multiple lines
 echo   '
