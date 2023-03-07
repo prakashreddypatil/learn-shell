@@ -9,7 +9,7 @@ echo  -e "\e[36m colour code change  and it stopped here \e[0m"
 
 echo -e   "line1\nline2\nline3"
 
-echo : '
+echo  '
 line 1
 line 1
 line 3
