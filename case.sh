@@ -1,6 +1,6 @@
 ##case
 
-read -p 'please enter a course name : 'name
+read -p 'please enter a course name : ' name
 
 case $name in
      DevOps)
