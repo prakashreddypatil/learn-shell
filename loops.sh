@@ -8,5 +8,5 @@ while [ $i -gt 0 ] ; do
 ##loops for return
 
 for $i in 1 2 4 5 6 7 8 do
-  echi $i
+  echo $i
   done
