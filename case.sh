@@ -30,4 +30,4 @@ elif [ "${name}" == "AWS" ];then
     echo "the course duration is 2month"
  else
     echo "please enter a valid course details"
-    Fi
+fi
