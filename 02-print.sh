@@ -7,4 +7,4 @@ echo  colour codded disabled
 echo  -e "\e[36m colour code change  and it stopped here \e[0m"
 
 
-echo line1\nline2\nline3
+echo  "line1\nline2\nline3"
