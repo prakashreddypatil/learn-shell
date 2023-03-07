@@ -14,4 +14,4 @@ echo  '"\e[32m
 line 1
 line 1
 line 3
-line 4 \e[0m"'
+line 4 \e[0m" '
