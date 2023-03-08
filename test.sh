@@ -1,0 +1,12 @@
+var=123
+a=test
+b=DevOps
+sample=12345
+test@=123456
+test-3=1234567
+var1=$(hostname)
+echo "the value of var =:${var}"
+echo "the value of var =:${a}"
+echo "the value of var =:${sample}"
+echo "the value of var =:${test@}"
+echo "the value of var =:${test-3}"
